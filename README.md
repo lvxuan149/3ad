@@ -50,8 +50,3 @@ Powered by the Solana Blinks protocol, 3ad offers a seamless, user-friendly plat
 - **Secure, Trustworthy On-chain Interactions**  
   Community governance and blockchain transparency ensure user security and operational integrity.
 
----
-
-## 🛠️ Getting Started
-
-1. Clone the repository  
